@@ -54,7 +54,6 @@ warnings.filterwarnings('ignore')  # Sembunyikan warning agar tampilan bersih
 
 st.set_page_config(
     page_title="Employee Attrition Predictor",  # Judul tab browser
-    page_icon="👔",  # Icon di tab browser
     layout="wide",  # Pakai layout lebar (full width)
     initial_sidebar_state="expanded"  # Sidebar terbuka otomatis
 )
